@@ -1,0 +1,11 @@
+,Epochs,Training Accuracy,Training Loss,Validation Accuracy,Validation Loss
+0,0,"tf.Tensor(0.4502677, shape=(), dtype=float32)","tf.Tensor(4.4973993, shape=(), dtype=float32)","tf.Tensor(0.92613965, shape=(), dtype=float32)","tf.Tensor(0.662696, shape=(), dtype=float32)"
+1,1,"tf.Tensor(0.96238196, shape=(), dtype=float32)","tf.Tensor(0.3634096, shape=(), dtype=float32)","tf.Tensor(0.98170424, shape=(), dtype=float32)","tf.Tensor(0.18475282, shape=(), dtype=float32)"
+2,2,"tf.Tensor(0.9835486, shape=(), dtype=float32)","tf.Tensor(0.16921212, shape=(), dtype=float32)","tf.Tensor(0.9873061, shape=(), dtype=float32)","tf.Tensor(0.13103151, shape=(), dtype=float32)"
+3,3,"tf.Tensor(0.9879226, shape=(), dtype=float32)","tf.Tensor(0.12791055, shape=(), dtype=float32)","tf.Tensor(0.9896364, shape=(), dtype=float32)","tf.Tensor(0.1124034, shape=(), dtype=float32)"
+4,4,"tf.Tensor(0.98987967, shape=(), dtype=float32)","tf.Tensor(0.1101384, shape=(), dtype=float32)","tf.Tensor(0.9908109, shape=(), dtype=float32)","tf.Tensor(0.10344273, shape=(), dtype=float32)"
+5,5,"tf.Tensor(0.99083465, shape=(), dtype=float32)","tf.Tensor(0.10168457, shape=(), dtype=float32)","tf.Tensor(0.99136275, shape=(), dtype=float32)","tf.Tensor(0.09880707, shape=(), dtype=float32)"
+6,6,"tf.Tensor(0.9913459, shape=(), dtype=float32)","tf.Tensor(0.098223396, shape=(), dtype=float32)","tf.Tensor(0.99158573, shape=(), dtype=float32)","tf.Tensor(0.09719101, shape=(), dtype=float32)"
+7,7,"tf.Tensor(0.99161273, shape=(), dtype=float32)","tf.Tensor(0.09770729, shape=(), dtype=float32)","tf.Tensor(0.99177957, shape=(), dtype=float32)","tf.Tensor(0.0969445, shape=(), dtype=float32)"
+8,8,"tf.Tensor(0.9916715, shape=(), dtype=float32)","tf.Tensor(0.09895935, shape=(), dtype=float32)","tf.Tensor(0.9917902, shape=(), dtype=float32)","tf.Tensor(0.097089574, shape=(), dtype=float32)"
+9,9,"tf.Tensor(0.9916707, shape=(), dtype=float32)","tf.Tensor(0.100503124, shape=(), dtype=float32)","tf.Tensor(0.9919334, shape=(), dtype=float32)","tf.Tensor(0.09816591, shape=(), dtype=float32)"
